@@ -6,5 +6,7 @@ You are invited to a meeting about the company's international expansion project
 Here are the different questions your manager would like to explore, which you noted during the meeting:
 
 Which countries have high customer potential for our services?
+
 For each of these countries, what will be the evolution of this customer potential?
+
 In which countries should the company operate as a priority?
